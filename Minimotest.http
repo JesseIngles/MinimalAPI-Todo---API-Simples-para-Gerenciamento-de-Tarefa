@@ -1,0 +1,6 @@
+@Minimotest_HostAddress = http://localhost:5115
+
+GET {{Minimotest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
